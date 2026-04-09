@@ -1,0 +1,5 @@
+com\mycompany\demo\repository\UserRepository.class
+com\mycompany\demo\model\User.class
+com\mycompany\demo\service\UserService.class
+com\mycompany\demo\controller\UserController.class
+com\mycompany\demo\DemoApplication.class
